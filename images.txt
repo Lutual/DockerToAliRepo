@@ -6,4 +6,5 @@
 #redis
 #golang:1.24
 #java:21
-openjdk:8
+#openjdk:8
+openjdk:21
