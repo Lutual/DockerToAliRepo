@@ -11,3 +11,4 @@
 #bitnami/redis
 #golang:1.24-alpine
 node:20-slim
+nginx:alpine
