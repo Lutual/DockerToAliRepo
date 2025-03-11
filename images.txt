@@ -9,4 +9,5 @@
 #openjdk:8
 #openjdk:21
 #bitnami/redis
-golang:1.24-alpine
+#golang:1.24-alpine
+node:20-slim
